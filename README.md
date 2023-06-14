@@ -14,9 +14,12 @@ To gain insights from the crime data, we conducted initial data analysis (IDA) a
 ## Data Visualization and Research Questions
 After performing IDA and EDA, we utilized data visualization techniques to find answers to pressing research questions. By creating visual representations such as charts, graphs, and maps, we were able to effectively communicate complex patterns and trends within the crime data. The visualizations helped us address research questions related to crime hotspots, temporal patterns, crime types, victim demographics, and more.
 
+## Presentation of Major Findings
+The major findings from our analysis have been compiled and presented in a PowerPoint (PPT) file named "Crime_Statistics_Findings.pptx". This presentation provides a concise overview of the key insights and observations derived from the crime data analysis. We encourage you to review the PPT file to gain a comprehensive understanding of the significant findings.
+
 ## Contents
 This repository includes the following resources:
 
-crime.csv: The dataset file containing the crime statistics for Montgomery County from 2018 to 2022.
-
 crime_analysis.ipynb: A Jupyter Notebook that demonstrates the process of crime analysis using Python. It includes exploratory data analysis (EDA), data preprocessing, and various statistical analyses.
+
+Link to dataset: https://data.montgomerycountymd.gov/Public-Safety/Crime/icn6-v9z3
